@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-repeat: no-repeat;
+    background-image: url("Brigadeiro2.jpg");
+    background-position: center center;
+    background-size: cover;
+    padding-top: 100px;
+  }
+   
+  h1 {
+    font-family: cursive;
+    color: brown;
+  }
+  
+  .ingObr {
+    color: green;
+  }
+  
+  .ingGosto {
+    color: blue;
+  }
+  
+  .tempo {
+    font-style: italic;
+  }
+  
+  ul,
+  ol {
+    margin: 0 auto;
+    display: inline-block;
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #888;
+  }
+  
+  ul {
+    list-style-position: inside;
+  }
+  
+  ol {
+    list-style-type: decimal;
+    list-style-position: inside;
+}
